@@ -234,17 +234,3 @@ http://localhost:5000/usuarios
 
 ---
 
-## 🧩 Próximos pasos sugeridos
-
-* Aprender a crear una red entre más contenedores (por ejemplo, Nginx o phpMyAdmin).
-* Agregar variables de entorno con `.env`.
-* Aprender sobre **Docker Hub** para publicar tus imágenes.
-* Integrar tu proyecto con **Visual Studio Code** usando la extensión *Docker*.
-
----
-
-## 🎯 Conclusión
-
-Ahora tienes un entorno completo donde tu aplicación Python se comunica con una base de datos MySQL, todo dentro de Docker. Este es el primer paso hacia un entorno profesional de desarrollo y despliegue.
-
-Docker te permitirá trabajar con mayor orden, control de versiones, portabilidad y facilidad de mantenimiento.
